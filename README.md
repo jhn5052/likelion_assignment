@@ -4,7 +4,7 @@
 
 	* Django와 python을 이용한 Wordcount 페이지 만들기
 	* home, about, result 페이지로 구성
-	* html5, css 
+	* html5, css 사용
 
 **추가한 부분**
 
