@@ -3,6 +3,7 @@
 ## WORDCOUNT 페이지 만들기
 
 **추가한 부분**
+
 	* 페이지의 글꼴 변경(구글 폰트 import East Sea Dokdo)<br>
 	* 글자의 색 변경(royal blue)<br>
 	* 모든 페이지 가운데 정렬<br>
