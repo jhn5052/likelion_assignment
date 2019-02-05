@@ -14,14 +14,3 @@
 	* about 페이지에 이미지 추가(멋쟁이사자처럼 로고)
 	* result 페이지의 border 설정
 	
-
-## 과제 2 : Blog, portfolio 페이지 만들기
-
-	* Django와 python을 이용한 Blog,  portfolio 페이지 만들기
-	* home, portfolio, detail, new 페이지로 구성
-	* html5, css, bootstrap 사용
-
-**추가한 부분**
-
-	* 페이지의 글꼴 변경(구글 폰트 import East Sea Dokdo)
-	* home 페이지에 멋사 링크 연결
